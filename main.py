@@ -1,5 +1,5 @@
 """----------------------------------------------------------------
-Name:       your name
+Name:       Caleb Fisch
 Assignment: Lab - Baby Shark
 Course:     CS 1430, Section X, Fall 2026
 Purpose:    This program is designed to be practice for Python
